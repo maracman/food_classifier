@@ -1,5 +1,4 @@
 voila
-fastai2>=0.0.5
-pi llow was removed
+fastai>=2.5
 packaging
 ipywidgets==7.5.1
